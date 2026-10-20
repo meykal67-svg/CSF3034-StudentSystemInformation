@@ -39,6 +39,8 @@ public class SystemInformationStudent {
         } else {
             System.out.println("Result: Needs Improvement");
         }
+        
+        System.out.println("Course: CSF3034");
     }
     
 }
